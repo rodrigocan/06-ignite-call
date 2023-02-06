@@ -10,7 +10,7 @@ export const ConfirmForm = styled(Box, {
   label: {
     display: 'flex',
     flexDirection: 'column',
-    gap: '2',
+    gap: '$2',
   },
 })
 
@@ -37,7 +37,7 @@ export const FormHeader = styled('div', {
 })
 
 export const FormError = styled(Text, {
-  color: '#f75a68',
+  color: '#F75A68',
 })
 
 export const FormActions = styled('div', {
